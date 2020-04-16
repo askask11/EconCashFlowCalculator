@@ -10,10 +10,6 @@ package utils;
  * @author jianqing
  */
 public class NumberToMouth {
-
-    
-    
-
     public static String convertInt(int mouth) {
         switch (mouth % 12) {
             case 1:
