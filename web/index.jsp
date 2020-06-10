@@ -41,7 +41,7 @@
             <!--Submit get-->
             <form action="index" method="GET">
                 <!--6-->
-                <p>Please enter number of mouths:   <input type="number" id="numberOfMouths" name="numberOfMouths" required/>
+                <p>Please enter number of mo. :   <input type="number" id="numberOfMouths" name="numberOfMouths" required/>
                     &nbsp; &nbsp; 
                     Cash In/mo. <input type="number" name="cashInflow" required /> <!--1500-->
                     Cash out/mo. <input type="number" name="cashOutflow" required /><!--176-->
